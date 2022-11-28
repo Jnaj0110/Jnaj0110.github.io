@@ -50,5 +50,5 @@ p, li {
   color: #51473b;
   
 }
-
-
+a:link    { color: blue;  }
+a:hover   { color: green; }
