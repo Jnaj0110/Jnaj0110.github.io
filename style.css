@@ -4,7 +4,7 @@
 	One stylesheet to rule them all.
 	
 	selector { property:value }
-	
+	comments: completed the assignment per requirements to the best of my ability 
 */
 
 @import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great|Lato);
@@ -15,6 +15,7 @@ body {
  
 .pageContainer {
   width: 940px;
+  height: 20px;
   margin: 20px auto 0 auto;
   padding: 20px;
   background-color: #fff;
